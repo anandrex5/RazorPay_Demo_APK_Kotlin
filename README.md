@@ -8,3 +8,10 @@ Test Cards from the Official Razorpay site-
 |              |                        | 5105 1051 0510 5100       |
 | Visa         | International          | 4012 8888 8888 1881       |
 |              |                        | 5104 0600 0000 0008       |
+
+
+Imp links -
+Link for api key -
+https://dashboard.razorpay.com/app/website-app-settings/api-keys
+Link for DashBoard -
+https://dashboard.razorpay.com/app/dashboard
