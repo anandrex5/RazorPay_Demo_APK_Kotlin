@@ -37,6 +37,7 @@
         android:background="@drawable/edit_text_bg"
         android:hint="Enter Amount"
         android:padding="12dp"
+        android:inputType="number"
         android:textSize="18sp" />
 
     <!-- move paymentStatus TextView below idEdtAmt -->
