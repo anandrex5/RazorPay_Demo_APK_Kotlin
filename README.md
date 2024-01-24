@@ -9,6 +9,9 @@ Test Cards from the Official Razorpay site-
 | Visa         | International          | 4012 8888 8888 1881       |
 |              |                        | 5104 0600 0000 0008       |
 
+More Cards -https://razorpay.com/docs/payments/payments/test-card-details/
+
+
 
 Imp links -
 Link for API key -
